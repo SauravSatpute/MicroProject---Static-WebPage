@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+#main-header {
+    font-family: 'Inter', sans-serif;
+    font-size: 2.2rem;
+    line-height:110%;
+    padding-bottom:8%;
+    font-weight: 700;
+}
+
+#p1-below-header {
+   font-family: 'Inter',sans-serif;
+   font-size: 1.2rem;
+   padding-bottom:8%;
+   font-weight: 500;
+   line-height:150%;
+   width: 30vw
+}
+
+#p2-below-header {
+    font-family: 'Inter',sans-serif;
+    font-size: 1.2rem;
+    padding-bottom:8%;
+    font-weight: 700;
+ }
+
+ form {
+    padding-bottom: 3%;
+ }
+
+ input[type=text] {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    border: 2px solid black;
+    border-radius:8px;
+    height:3vw;
+    width: 330px;
+    padding-left: 12px;
+  }
+
+  #Register-btn {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    background-color: black;
+    border-radius:8px;
+    color: #fff;
+    padding: 15px 32px;
+    text-align: center;
+    /* text-decoration: none; */
+    display: inline-block;
+    font-size: 1rem;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .no-spam-text {
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    width: 330px;
+    text-align: center;
+  }
+
+.hero {
+    height: 70vh;
+    width: 100vw;
+    background-color: #FFCD9E;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    height: 60vh;
+    width: 49vw;
+    /* position: absolute; */
+    position: relative;
+}
+
+.content-form {
+    height: 50vh;
+    width: 35vw;
+    position: absolute;
+    /* left: 10vh;
+    top: 9vw; */
+    margin: 10px;
+    padding: 50px;
+    
+}
+
+.hero-image {
+    /* height: 40vh;
+    width: 50vh; */
+    /* background-color: tomato; */
+}
+
+.footer {
+    height:30vh;
+    width: 100vw;
+    background-color:#282828;
+    display: flex;
+    justify-content:space-around;
+    
+    
+}
+
+.left-footer {
+    margin: 26px;
+    padding: 5px;
+    line-height: 30px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+}
+
+.inline-logo {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 0px;
+}
+
+.linked-logo {
+    padding: 0;
+}
+
+.right-footer{
+    margin: 26px;
+    padding: 5px;
+    text-decoration: none;
+    line-height: 30px;
+    text-align: right;
+}
+
