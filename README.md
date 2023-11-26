@@ -1,7 +1,7 @@
 
 # Static Web Page
 
-It's a Static Web Page. You can visit the deployed site []("here")
+It's a Static Web Page. You can visit the deployed site [here](["here"](https://sauravsatpute.github.io/MicroProject---Static-WebPage/))
 
 
 ## Tech Stack
